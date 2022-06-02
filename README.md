@@ -1,5 +1,5 @@
 1bugAiIndex
-2022-06-02 10:20:26
+2022-06-03 00:05:02
 # 算力平台
 ## <a target="_blank" href="https://www.matpool.com/">矩池云</div>
 ## <a target="_blank" href="https://aistudio.baidu.com/aistudio/index">AI Studio</div>
@@ -50,7 +50,6 @@
 ## <a target="_blank" href="http://www.mwhitelab.com/">皌小白实验室 - 小白的学习网站</div>
 
 # AI资讯
-## <a target="_blank" href="http://baidu.com">AI2025人工智能</div>
 ## <a target="_blank" href="https://www.leiphone.com/">雷锋网</div>
 ## <a target="_blank" href="https://ai.51cto.com/">51CTO-AI</div>
 ## <a target="_blank" href="http://www.elecfans.com/rengongzhineng/">电子发烧友网—人工智能</div>
