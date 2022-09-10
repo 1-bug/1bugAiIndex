@@ -1,5 +1,5 @@
 1bugAiIndex
-2022-09-10 00:05:01
+2022-09-11 00:05:02
 # 算力平台
 ## <a target="_blank" href="https://www.matpool.com/">矩池云</div>
 ## <a target="_blank" href="https://aistudio.baidu.com/aistudio/index">AI Studio</div>
